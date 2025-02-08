@@ -23,6 +23,35 @@ Secara keseluruhan, Linux adalah sistem operasi yang kuat, fleksibel, dan sangat
 ![Screenshot 2025-02-08 095451](https://github.com/user-attachments/assets/a5766fc3-58a2-4486-befc-584b9a0f3167)
 Gambar di atas menunjukan perbandingan antara Task Manager(Windows)kiri dan System Monitor(Linux)kanan. kedua ini digunakan untuk memantau kinerja sistem, termasuk CPU.Memori,dan Jaringan.
 
+ **Task Manager di Windows** dan **System Monitor di Linux** adalah alat yang digunakan untuk memantau dan mengelola proses serta sumber daya sistem.  
+
+🔹 **Task Manager (Windows)** lebih sederhana dan mudah digunakan, berfokus pada mengelola aplikasi, menutup program yang tidak responsif, serta memantau penggunaan CPU, RAM, dan jaringan.  
+
+🔹 **System Monitor (Linux)** lebih fleksibel dan memberikan informasi lebih rinci, termasuk kemampuan untuk melihat dan mengelola proses dengan lebih banyak opsi, serta bisa digunakan melalui antarmuka grafis atau terminal dengan perintah seperti `top` dan `htop`.  
+
+Kesimpulannya, **Task Manager lebih cocok untuk pengguna umum**, sedangkan **System Monitor memberikan lebih banyak kendali bagi pengguna yang lebih teknis**,
+
+## 2. Storage Usage
+![Screenshot 2025-02-08 093148](https://github.com/user-attachments/assets/5dfa31d9-af9d-4455-b4e6-d345e1f54cb4)
+Gambar di atas menunjukan perbandingan antara storage usage (Windows)kiri dan storage usage(Linux)kanan. 
+
+1. Windows lebih fokus pada penyimpanan disk dengan menampilkan drive fisik yang tersedia dan kapasitasnya.
+2. Linux menampilkan semua sistem file yang ter-mount, termasuk partisi sementara (tmpfs), CD-ROM, dan penggunaan RAM dalam bentuk filesystem virtual.
+3. Windows menunjukkan informasi dalam GUI, sedangkan Linux menggunakan perintah terminal (df -h) untuk menampilkan detail penyimpanan.
+4. Linux dalam VirtualBox tidak menampilkan partisi utama disk (karena mungkin belum dimount), sementara Windows menampilkan semua partisi yang terhubung.
+  
+## 3. manajemen file
+# -File Explorer dan File Manager
+![Screenshot 2025-02-08 091735](https://github.com/user-attachments/assets/574166a5-265d-494c-8386-69c90fce636a)
+
+
+
+
+
+
+
+
+
 
 
 
